@@ -117,5 +117,76 @@
       "Training",
       "Koordination"
     ]
+  }, 
+  {
+    "id": "123E4567-E89B-12D3-A456-426655440000",
+    "title": "Sitz",
+    "description": "Bringe deinem Hund bei, sich hinzusetzen.",
+    "instructions": [
+      "Halte ein Leckerli über den Kopf deines Hundes.",
+      "Bewege das Leckerli langsam nach hinten und oben.",
+      "Wenn dein Hund sich hinsetzt, gib ihm das Leckerli und lobe ihn.",
+      "Wiederhole dies mehrmals täglich."
+    ],
+    "category": "trick",
+    "difficulty": "beginner",
+    "duration": 5,
+    "location": "indoor",
+    "mediaURLs": [
+      "https://example.com/sit.jpg"
+    ],
+    "mediaType": "image",
+    "tags": [
+      "Grundkommando",
+      "Anfänger",
+      "Trick"
+    ]
+  },
+  {
+    "id": "234E5678-F9A0-23D4-B567-537766550000",
+    "title": "Bleib",
+    "description": "Bringe deinem Hund bei, an einem Ort zu bleiben.",
+    "instructions": [
+      "Lass deinen Hund sitzen oder liegen.",
+      "Tritt ein paar Schritte zurück und sage 'Bleib'.",
+      "Wenn dein Hund bleibt, lobe ihn und gib ihm ein Leckerli.",
+      "Wiederhole dies mehrmals täglich und erhöhe langsam die Distanz."
+    ],
+    "category": "trick",
+    "difficulty": "intermediate",
+    "duration": 10,
+    "location": "both",
+    "mediaURLs": [
+      "https://example.com/stay.jpg"
+    ],
+    "mediaType": "image",
+    "tags": [
+      "Grundkommando",
+      "Training",
+      "Gehorsam"
+    ]
+  },
+  {
+    "id": "345E6789-G0B1-34D5-C678-648877660000",
+    "title": "Komm",
+    "description": "Bringe deinem Hund bei, auf Kommando zu dir zu kommen.",
+    "instructions": [
+      "Rufe deinen Hund mit einem freundlichen Ton und gib ihm ein Leckerli, wenn er kommt.",
+      "Wiederhole dies mehrmals täglich und erhöhe langsam die Distanz.",
+      "Verwende ein bestimmtes Kommando wie 'Komm'."
+    ],
+    "category": "trick",
+    "difficulty": "beginner",
+    "duration": 5,
+    "location": "both",
+    "mediaURLs": [
+      "https://example.com/come.jpg"
+    ],
+    "mediaType": "image",
+    "tags": [
+      "Grundkommando",
+      "Anfänger",
+      "Trick"
+    ]
   }
 ]
