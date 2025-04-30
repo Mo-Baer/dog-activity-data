@@ -128,7 +128,7 @@
       "Wenn dein Hund sich hinsetzt, gib ihm das Leckerli und lobe ihn.",
       "Wiederhole dies mehrmals täglich."
     ],
-    "category": "trick",
+    "category": "basic",
     "difficulty": "beginner",
     "duration": 5,
     "location": "indoor",
@@ -152,7 +152,7 @@
       "Wenn dein Hund bleibt, lobe ihn und gib ihm ein Leckerli.",
       "Wiederhole dies mehrmals täglich und erhöhe langsam die Distanz."
     ],
-    "category": "trick",
+    "category": "basic",
     "difficulty": "intermediate",
     "duration": 10,
     "location": "both",
@@ -175,7 +175,7 @@
       "Wiederhole dies mehrmals täglich und erhöhe langsam die Distanz.",
       "Verwende ein bestimmtes Kommando wie 'Komm'."
     ],
-    "category": "trick",
+    "category": "basic",
     "difficulty": "beginner",
     "duration": 5,
     "location": "both",
