@@ -1,0 +1,121 @@
+[
+  {
+    "id": "E4D9C3B1-F1E5-4B7C-8C4A-0F1D7E9B2A1C",
+    "title": "Pfote geben",
+    "description": "Bringe deinem Hund bei, dir die Pfote zu geben.",
+    "instructions": [
+      "Halte ein Leckerli in deiner geschlossenen Hand.",
+      "Wenn dein Hund mit der Pfote an deine Hand kommt, öffne sie und gib ihm das Leckerli.",
+      "Sage dabei das Kommando 'Pfote'.",
+      "Wiederhole dies mehrmals täglich."
+    ],
+    "category": "trick",
+    "difficulty": "beginner",
+    "duration": 5,
+    "location": "indoor",
+    "mediaURLs": [
+      "https://example.com/paw.jpg"
+    ],
+    "mediaType": "image",
+    "tags": [
+      "Grundkommando",
+      "Anfänger",
+      "Trick"
+    ]
+  },
+  {
+    "id": "A2B8D5E9-C7F0-4A3B-9E1D-5C6B8A0F3D7E",
+    "title": "Leckerli-Suchspiel",
+    "description": "Verstecke Leckerlis in der Wohnung und lass deinen Hund sie finden.",
+    "instructions": [
+      "Verstecke 5-10 Leckerlis in verschiedenen Ecken der Wohnung.",
+      "Achte darauf, dass dein Hund nicht sieht, wo du sie versteckst.",
+      "Gib das Kommando 'Such' und lass deinen Hund die Leckerlis finden.",
+      "Lobe ihn, wenn er erfolgreich ist."
+    ],
+    "category": "search",
+    "difficulty": "beginner",
+    "duration": 15,
+    "location": "indoor",
+    "mediaURLs": [
+      "https://example.com/search.jpg"
+    ],
+    "mediaType": "image",
+    "tags": [
+      "Suchspiel",
+      "Beschäftigung",
+      "Indoor"
+    ]
+  },
+  {
+    "id": "F9C6A0B3-D8E7-4C5A-A1B0-9D2E7F8B4C6D",
+    "title": "Intelligenzspielzeug",
+    "description": "Fordere deinen Hund mit einem Intelligenzspielzeug heraus.",
+    "instructions": [
+      "Fülle ein Intelligenzspielzeug mit Leckerlis.",
+      "Zeige deinem Hund das Spielzeug und wie man es bewegt, um an die Leckerlis zu kommen.",
+      "Lass deinen Hund selbst probieren und beobachte seine Fortschritte."
+    ],
+    "category": "mental",
+    "difficulty": "intermediate",
+    "duration": 20,
+    "location": "indoor",
+    "mediaURLs": [
+      "https://example.com/puzzle.jpg"
+    ],
+    "mediaType": "image",
+    "tags": [
+      "Denkaufgabe",
+      "Beschäftigung",
+      "Intelligenz"
+    ]
+  },
+  {
+    "id": "B7D1E5F0-A3C8-4B9D-8E6A-1F0D9C4B7A2E",
+    "title": "Frisbee-Training",
+    "description": "Bringe deinem Hund bei, eine Frisbee zu fangen.",
+    "instructions": [
+      "Beginne mit kurzen Würfen in Bodennähe.",
+      "Lobe deinen Hund, wenn er die Frisbee aufnimmt oder fängt.",
+      "Steigere langsam die Distanz und Höhe der Würfe.",
+      "Achte auf ausreichend Pausen."
+    ],
+    "category": "physical",
+    "difficulty": "advanced",
+    "duration": 30,
+    "location": "outdoor",
+    "mediaURLs": [
+      "https://example.com/frisbee.mp4"
+    ],
+    "mediaType": "video",
+    "tags": [
+      "Sport",
+      "Bewegung",
+      "Outdoor"
+    ]
+  },
+  {
+    "id": "C1A0B9D4-E6F2-4A7C-B3D8-7E5F1C0A9B8D", 
+    "title": "Slalom-Parcours",
+    "description": "Baue einen einfachen Slalom-Parcours für deinen Hund.",
+    "instructions": [
+      "Stelle 6-8 Gegenstände (z.B. Flaschen, Stöcke) in einer Reihe auf.",
+      "Führe deinen Hund zunächst an der Leine durch den Slalom.",
+      "Belohne ihn nach jedem erfolgreichen Durchgang.",
+      "Versuche später, ihn ohne Leine durch den Parcours zu führen."
+    ],
+    "category": "physical",
+    "difficulty": "intermediate",
+    "duration": 15,
+    "location": "both",
+    "mediaURLs": [
+      "https://example.com/slalom.jpg"
+    ],
+    "mediaType": "image",
+    "tags": [
+      "Agility",
+      "Training",
+      "Koordination"
+    ]
+  }
+]
