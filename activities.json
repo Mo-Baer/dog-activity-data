@@ -14,7 +14,7 @@
     "duration": 5,
     "location": "indoor",
     "mediaURLs": [
-      "https://example.com/paw.jpg"
+      "https://pawsunited.ch/dog-activity-app/images/Hund-an-Leine.png"
     ],
     "mediaType": "image",
     "tags": [
@@ -38,7 +38,8 @@
     "duration": 15,
     "location": "indoor",
     "mediaURLs": [
-      "https://example.com/search.jpg"
+      "https://https://pawsunited.ch/dog-activity-app/images/Hund-an-Leine.png", 
+      "https://pawsunited.ch/dog-activity-app/images/Hund-an-Leine.png"
     ],
     "mediaType": "image",
     "tags": [
