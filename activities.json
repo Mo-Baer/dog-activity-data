@@ -39,7 +39,7 @@
     "location": "indoor",
     "mediaURLs": [
       "https://pawsunited.ch/dog-activity-app/images/Hund-an-Leine.png", 
-      "https://pawsunited.ch/dog-activity-app/images/Hund-an-Leine.png"
+      "https://pawsunited.ch/dog-activity-app/images/Hund-entspannt.jpg"
     ],
     "mediaType": "image",
     "tags": [
@@ -62,7 +62,6 @@
     "duration": 20,
     "location": "indoor",
     "mediaURLs": [
-      "https://example.com/puzzle.jpg"
     ],
     "mediaType": "image",
     "tags": [
@@ -86,7 +85,7 @@
     "duration": 30,
     "location": "outdoor",
     "mediaURLs": [
-      "https://example.com/frisbee.mp4"
+      "https://pawsunited.ch/dog-activity-app/videos/Verlorenensuche.mov"
     ],
     "mediaType": "video",
     "tags": [
@@ -110,7 +109,7 @@
     "duration": 15,
     "location": "both",
     "mediaURLs": [
-      "https://example.com/slalom.jpg"
+      
     ],
     "mediaType": "image",
     "tags": [
@@ -134,9 +133,9 @@
     "duration": 5,
     "location": "indoor",
     "mediaURLs": [
-      "https://example.com/sit.jpg"
+      "https://pawsunited.ch/dog-activity-app/pdf/Click-for-Blick.pdf"
     ],
-    "mediaType": "image",
+    "mediaType": "pdf",
     "tags": [
       "Grundkommando",
       "Anfänger",
@@ -158,7 +157,6 @@
     "duration": 10,
     "location": "both",
     "mediaURLs": [
-      "https://example.com/stay.jpg"
     ],
     "mediaType": "image",
     "tags": [
@@ -181,7 +179,6 @@
     "duration": 5,
     "location": "both",
     "mediaURLs": [
-      "https://example.com/come.jpg"
     ],
     "mediaType": "image",
     "tags": [
