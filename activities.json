@@ -1,97 +1,96 @@
 [
   {
     "id": "E4D9C3B1-F1E5-4B7C-8C4A-0F1D7E9B2A1C",
-    "title": "Pfote geben",
-    "description": "Bringe deinem Hund bei, dir die Pfote zu geben.",
+    "title": "Pause machen",
+    "description": "Mach mal eine Pause und geniesse die Natur!",
     "instructions": [
-      "Halte ein Leckerli in deiner geschlossenen Hand.",
-      "Wenn dein Hund mit der Pfote an deine Hand kommt, öffne sie und gib ihm das Leckerli.",
-      "Sage dabei das Kommando 'Pfote'.",
-      "Wiederhole dies mehrmals täglich."
+      "Sucht euch einen schönen Ort in der Natur.",
+      "Zum Beispiel eine schöne Parkbank unterwegs.",
+      "Wenn du das regelmässig machst wirst du merken, dass dein Hund an diesem Ort Pause machen möchte ;-).",
+      "Mach das am besten mehrmals pro Woche."
     ],
-    "category": "trick",
+    "category": "basic",
     "difficulty": "beginner",
-    "duration": 5,
-    "location": "indoor",
+    "duration": 10,
+    "location": "outdoor",
     "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/images/Hund-an-Leine.png"
+      "https://pawsunited.ch/dog-activity-app/images/pause_machen.jpeg"
     ],
     "mediaType": "image",
     "tags": [
       "Grundkommando",
       "Anfänger",
-      "Trick"
+      "Entspannung"
     ]
   },
   {
     "id": "A2B8D5E9-C7F0-4A3B-9E1D-5C6B8A0F3D7E",
-    "title": "Leckerli-Suchspiel",
-    "description": "Verstecke Leckerlis in der Wohnung und lass deinen Hund sie finden.",
+    "title": "Handtouch",
+    "description": "Lass deinen Hund mit der Nase deine Hand anstupsen. Dieser Trick kann unterwegs als Alternativverhalten nützlich sein.",
     "instructions": [
-      "Verstecke 5-10 Leckerlis in verschiedenen Ecken der Wohnung.",
-      "Achte darauf, dass dein Hund nicht sieht, wo du sie versteckst.",
-      "Gib das Kommando 'Such' und lass deinen Hund die Leckerlis finden.",
-      "Lobe ihn, wenn er erfolgreich ist."
+      "Voraussetzung: Dein Hund kennt den Handtouch bereits.",
+      "Frage den Trick unterwegs ein paar Mal ab.",
+      "Fange ohne Ablenkung an und steigere langsam.",
+      "Sobald dein Hund die Hand anstupst, gib dein Markerwort (falls vorhanden) und eine passende Belohnung."
     ],
-    "category": "search",
+    "category": "trick",
     "difficulty": "beginner",
-    "duration": 15,
-    "location": "indoor",
+    "duration": 5,
+    "location": "outdoor",
     "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/images/Hund-an-Leine.png", 
-      "https://pawsunited.ch/dog-activity-app/images/Hund-entspannt.jpg"
+      "https://pawsunited.ch/dog-activity-app/videos/lina-macht-handtouch.mp4" 
     ],
-    "mediaType": "image",
+    "mediaType": "video",
     "tags": [
-      "Suchspiel",
+      "Grundkommando",
       "Beschäftigung",
-      "Indoor"
+      "Trick"
     ]
   },
   {
     "id": "F9C6A0B3-D8E7-4C5A-A1B0-9D2E7F8B4C6D",
-    "title": "Intelligenzspielzeug",
-    "description": "Fordere deinen Hund mit einem Intelligenzspielzeug heraus.",
+    "title": "Bänkli (Parkbank) anzeigen",
+    "description": "Lass dir von deinem Hund unterwegs Bänkli (Parkbänke) anzeigen.",
     "instructions": [
-      "Fülle ein Intelligenzspielzeug mit Leckerlis.",
-      "Zeige deinem Hund das Spielzeug und wie man es bewegt, um an die Leckerlis zu kommen.",
-      "Lass deinen Hund selbst probieren und beobachte seine Fortschritte."
+      "Lobe deinen Hund (oder Marker & Belohnung), sobald er sich einem Bänkli nähert.",
+      "Zögere das Lob hinaus, bis der Hund das Bänkli anstupst (oder ein anderes Anzeigeverhalten wie 'Sitz' zeigt)",
+      "Wenn dein Hund zuverlässig die Bänkli ansteuert, kannst du dein Signalwort einführen.",
+      "Sage bei der nächsten Parkbank dein Signalwort und lobe deinen Hund, wenn er sie anzeigt."
     ],
-    "category": "mental",
+    "category": "trick",
     "difficulty": "intermediate",
-    "duration": 20,
-    "location": "indoor",
+    "duration": 5,
+    "location": "outdoor",
     "mediaURLs": [
+      "https://pawsunited.ch/dog-activity-app/videos/lina-zeigt-baenggli.mp4" 
     ],
-    "mediaType": "image",
+    "mediaType": "video",
     "tags": [
-      "Denkaufgabe",
       "Beschäftigung",
-      "Intelligenz"
+      "Spass"
     ]
   },
   {
     "id": "B7D1E5F0-A3C8-4B9D-8E6A-1F0D9C4B7A2E",
-    "title": "Frisbee-Training",
-    "description": "Bringe deinem Hund bei, eine Frisbee zu fangen.",
+    "title": "Einparkieren / Garage",
+    "description": "Lass deinen Hund zwischen deinen Beinen 'einparkieren' (Position Sitz oder Steh). Das kann praktisch sein, um ihm in schwierigen Situationen eine sichere Position zu bieten.",
     "instructions": [
-      "Beginne mit kurzen Würfen in Bodennähe.",
-      "Lobe deinen Hund, wenn er die Frisbee aufnimmt oder fängt.",
-      "Steigere langsam die Distanz und Höhe der Würfe.",
-      "Achte auf ausreichend Pausen."
+      "Wichtig: Achte darauf, dass dein Hund keine Angst hat, zwischen deine Beine zu kommen (manchen Hunden ist das unangenehm).",
+      "Du kannst deinen Hund zum Beispiel von hinten zwischen deine Beine in die Position locken.",
+      "Beginne ohne Ablenkung, am besten zuhause.",
+      "Übe an verschiedenen Orten, aber steigere die Ablenkung langsam!"
     ],
-    "category": "physical",
-    "difficulty": "advanced",
-    "duration": 30,
-    "location": "outdoor",
+    "category": "basic",
+    "difficulty": "intermediate",
+    "duration": 5,
+    "location": "both",
     "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/videos/Verlorenensuche.mov"
+      "https://pawsunited.ch/dog-activity-app/images/einparkieren_garage.jpeg"
     ],
-    "mediaType": "video",
+    "mediaType": "image",
     "tags": [
-      "Sport",
-      "Bewegung",
-      "Outdoor"
+      "Grundkommando",
+      "Beschäftigung"
     ]
   },
   {
