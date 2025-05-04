@@ -153,25 +153,27 @@
   },
   {
     "id": "234E5678-F9A0-23D4-B567-537766550000",
-    "title": "Bleib",
-    "description": "Bringe deinem Hund bei, an einem Ort zu bleiben.",
+    "title": "Twist",
+    "description": "Bringe deinem Hund bei, sich um die eigene Achse zu drehen.",
     "instructions": [
-      "Lass deinen Hund sitzen oder liegen.",
-      "Tritt ein paar Schritte zurück und sage 'Bleib'.",
-      "Wenn dein Hund bleibt, lobe ihn und gib ihm ein Leckerli.",
-      "Wiederhole dies mehrmals täglich und erhöhe langsam die Distanz."
+      "Am Anfang kannst du mit mehreren Lockpunkten arbeiten, z. B. einem in der Hälfte und einem ganz herum.",
+      "Finde heraus, welche Seite dein Hund lieber hat. Die meisten Hunde haben eine Präferenz.",
+      "Wenn dein Hund das Verhalten zuverlässig zeigt, kannst du dein Signal 'twist' einführen.",
+      "Achte darauf, dass das Signalwort vor dem Sichtzeichen kommt.",
+      "Versuche den Trick auch auf die andere Seite. Links herum wird meist 'emu' genannt."
     ],
-    "category": "basic",
-    "difficulty": "intermediate",
-    "duration": 10,
+    "category": "trick",
+    "difficulty": "beginner",
+    "duration": 5,
     "location": "both",
     "mediaURLs": [
+      "https://pawsunited.ch/dog-activity-app/videos/twist-drehen.mp4"
     ],
-    "mediaType": "image",
+    "mediaType": "video",
     "tags": [
-      "Grundkommando",
-      "Training",
-      "Gehorsam"
+      "Trick",
+      "Beschäftigung",
+      "Spass"
     ]
   },
   {
