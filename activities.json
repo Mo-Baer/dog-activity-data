@@ -96,51 +96,60 @@
   },
   {
     "id": "C1A0B9D4-E6F2-4A7C-B3D8-7E5F1C0A9B8D", 
-    "title": "Slalom-Parcours",
-    "description": "Baue einen einfachen Slalom-Parcours für deinen Hund.",
+    "title": "Frisbee-Training",
+    "description": "Spiele mit deinem Hund Frisbee oder etwas anderes, das euch Spass macht.",
     "instructions": [
-      "Stelle 6-8 Gegenstände (z.B. Flaschen, Stöcke) in einer Reihe auf.",
-      "Führe deinen Hund zunächst an der Leine durch den Slalom.",
-      "Belohne ihn nach jedem erfolgreichen Durchgang.",
-      "Versuche später, ihn ohne Leine durch den Parcours zu führen."
+      "Suche dir einen geeigneten Ort, wo du etwas Platz hast, zum Beispiel eine freie Wiese.",
+      "Beginne langsam mit weniger weitern Würfen.",
+      "Lobe deinen Hund habe Freude, wenn er mitspielt. Ob er den Frisbee 'schön' fängt, ist dabei nebensächlich.",
+      "Mache lieber weniger Durchgänge (vielleicht 4 oder 5), dafür ist dein Hund motiviert.", 
+      "Wichtig: Hilf deinem Hund dabei, am Ende herunter zu fahren, zum Beispiel mit einer Futtersuche (Stichwort: Erregungswellen fahren).",
+      "Voraussetzung: Dein Hund sollte natürlich gesund sein für dieses Spiel.", 
+      "Tipp: Nimm etwas Wasser mit, damit dein Hund trinken kann."
     ],
     "category": "physical",
     "difficulty": "intermediate",
-    "duration": 15,
-    "location": "both",
+    "duration": 20,
+    "location": "outdoor",
     "mediaURLs": [
-      
+      https://pawsunited.ch/dog-activity-app/videos/frisbee-spiel_lina.mp4
     ],
-    "mediaType": "image",
+    "mediaType": "video",
     "tags": [
-      "Agility",
       "Training",
-      "Koordination"
-    ]
+      "Koordination", 
+      "Spass"
+    ], 
+    "link": "https://pawsunited.ch/erregungswellen-fahren/"
   }, 
   {
     "id": "123E4567-E89B-12D3-A456-426655440000",
-    "title": "Sitz",
-    "description": "Bringe deinem Hund bei, sich hinzusetzen.",
+    "title": "Verlorenen-Suche",
+    "description": "Dein Hund sucht einen Gegenstand, den du 'verloren' hast auf deiner Rückspur.",
     "instructions": [
-      "Halte ein Leckerli über den Kopf deines Hundes.",
-      "Bewege das Leckerli langsam nach hinten und oben.",
-      "Wenn dein Hund sich hinsetzt, gib ihm das Leckerli und lobe ihn.",
-      "Wiederhole dies mehrmals täglich."
+      "Lasse einen Gegenstand fallen, den der Hund interessiert, wie zum Beispiel einen Futterbeutel oder ein Spielzeug.",
+      "Dein Hund geht zum Gegenstand? Super, lobe ihn!",
+      "Falls nicht, kann du ihm etwas helfen. Sag 'Oh, ich habe etwas verloren', mache ein Geste und gehe zum Gegenstand. Dein Hund wird ziemlich sicher Interesse daran zeigen.",
+      "Wenn dein Hund zuverlässig Interesse zeigt, kannst du den Gegenstand unauffällig 'verlieren', dann die Geste machen und deinen Hund suche lassen.",
+      "Lobe deinen Hund, wenn er den Gegenstand findet.",
+      "Dein Hund muss den Gegenstand nicht unbedingt apportieren, das hängt von eurem Trainingsziel ab.",
+      "Hinweis: Die Suche findet auf der Rückspur statt. Also auf deiner gelaufenen Spur. Idee ist, dass der Hund deiner Rückspur folgen kann und so den Gegenstand findet.",
+      "Als Steigerung kannst den Gegenstand vor einer Kurve 'verlieren' und erst nach der Kurve das Siganl geben."
     ],
-    "category": "basic",
-    "difficulty": "beginner",
-    "duration": 5,
-    "location": "indoor",
+    "category": "search",
+    "difficulty": "intermediate",
+    "duration": 10,
+    "location": "ourdoor",
     "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/pdf/Click-for-Blick.pdf"
+      "https://pawsunited.ch/dog-activity-app/videos/verlorenensuche_lina.mp4"
     ],
-    "mediaType": "pdf",
+    "mediaType": "video",
     "tags": [
-      "Grundkommando",
-      "Anfänger",
-      "Gehorsam"
-    ]
+      "Beschäftigung",
+      "Spass",
+      "Suchspiel"
+    ],
+    "link": "https://pawsunited.ch/verlorenen-suche/"
   },
   {
     "id": "234E5678-F9A0-23D4-B567-537766550000",
