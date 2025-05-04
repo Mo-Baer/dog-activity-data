@@ -100,9 +100,9 @@
     "description": "Spiele mit deinem Hund Frisbee oder etwas anderes, das euch Spass macht.",
     "instructions": [
       "Suche dir einen geeigneten Ort, wo du etwas Platz hast, zum Beispiel eine freie Wiese.",
-      "Beginne langsam mit weniger weitern Würfen.",
-      "Lobe deinen Hund habe Freude, wenn er mitspielt. Ob er den Frisbee 'schön' fängt, ist dabei nebensächlich.",
-      "Mache lieber weniger Durchgänge (vielleicht 4 oder 5), dafür ist dein Hund motiviert.", 
+      "Beginne langsam mit weniger weiten Würfen.",
+      "Lobe deinen Hund und freue dich, wenn er mitspielt. Ob er den Frisbee 'schön' fängt, ist dabei nebensächlich.",
+      "Mache lieber weniger Durchgänge (vielleicht 4 oder 5), damit dein Hund motiviert bleibt.", 
       "Wichtig: Hilf deinem Hund dabei, am Ende herunter zu fahren, zum Beispiel mit einer Futtersuche (Stichwort: Erregungswellen fahren).",
       "Voraussetzung: Dein Hund sollte natürlich gesund sein für dieses Spiel.", 
       "Tipp: Nimm etwas Wasser mit, damit dein Hund trinken kann."
@@ -112,7 +112,7 @@
     "duration": 20,
     "location": "outdoor",
     "mediaURLs": [
-      https://pawsunited.ch/dog-activity-app/videos/frisbee-spiel_lina.mp4
+      "https://pawsunited.ch/dog-activity-app/videos/frisbee-spiel_lina.mp4"
     ],
     "mediaType": "video",
     "tags": [
@@ -125,21 +125,21 @@
   {
     "id": "123E4567-E89B-12D3-A456-426655440000",
     "title": "Verlorenen-Suche",
-    "description": "Dein Hund sucht einen Gegenstand, den du 'verloren' hast auf deiner Rückspur.",
+    "description": "Dein Hund sucht einen Gegenstand, den du auf deiner Rückspur 'verloren' hast.",
     "instructions": [
-      "Lasse einen Gegenstand fallen, den der Hund interessiert, wie zum Beispiel einen Futterbeutel oder ein Spielzeug.",
+      "Lasse einen Gegenstand fallen, der den Hund interessiert, wie zum Beispiel einen Futterbeutel oder ein Spielzeug.",
       "Dein Hund geht zum Gegenstand? Super, lobe ihn!",
-      "Falls nicht, kann du ihm etwas helfen. Sag 'Oh, ich habe etwas verloren', mache ein Geste und gehe zum Gegenstand. Dein Hund wird ziemlich sicher Interesse daran zeigen.",
-      "Wenn dein Hund zuverlässig Interesse zeigt, kannst du den Gegenstand unauffällig 'verlieren', dann die Geste machen und deinen Hund suche lassen.",
+      "Falls nicht, kannst du ihm etwas helfen. Sag 'Oh, ich habe etwas verloren', mache eine Geste und gehe zum Gegenstand. Dein Hund wird ziemlich sicher Interesse daran zeigen.",
+      "Wenn dein Hund zuverlässig Interesse zeigt, kannst du den Gegenstand unauffällig 'verlieren', dann die Geste machen und deinen Hund suchen lassen.",
       "Lobe deinen Hund, wenn er den Gegenstand findet.",
       "Dein Hund muss den Gegenstand nicht unbedingt apportieren, das hängt von eurem Trainingsziel ab.",
-      "Hinweis: Die Suche findet auf der Rückspur statt. Also auf deiner gelaufenen Spur. Idee ist, dass der Hund deiner Rückspur folgen kann und so den Gegenstand findet.",
-      "Als Steigerung kannst den Gegenstand vor einer Kurve 'verlieren' und erst nach der Kurve das Siganl geben."
+      "Hinweis: Die Suche findet auf der Rückspur statt, also auf deiner zuvor gelaufenen Spur. Die Idee ist, dass der Hund deiner Rückspur folgen und so den Gegenstand finden kann.",
+      "Als Steigerung kannst du den Gegenstand vor einer Kurve 'verlieren' und erst nach der Kurve das Signal geben."
     ],
     "category": "search",
     "difficulty": "intermediate",
     "duration": 10,
-    "location": "ourdoor",
+    "location": "outdoor",
     "mediaURLs": [
       "https://pawsunited.ch/dog-activity-app/videos/verlorenensuche_lina.mp4"
     ],
