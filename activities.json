@@ -178,24 +178,31 @@
   },
   {
     "id": "345E6789-F0B1-34D5-C678-648877660000",
-    "title": "Komm",
-    "description": "Bringe deinem Hund bei, auf Kommando zu dir zu kommen.",
+    "title": "Markersignal beibringen",
+    "description": "Bringe deinem Hund das Markersignal bei, um erwünschtes Verhalten effektiver belohnen zu können. Mit dem Markersignal (oder Clicker) kannst du Verhalten punktgenau und sogar auf Distanz markieren und anschliessend belohnen.",
     "instructions": [
-      "Rufe deinen Hund mit einem freundlichen Ton und gib ihm ein Leckerli, wenn er kommt.",
-      "Wiederhole dies mehrmals täglich und erhöhe langsam die Distanz.",
-      "Verwende ein bestimmtes Kommando wie 'Komm'."
+      "Wähle ein kurzes und einprägsames Markersignal (z. B. 'Click', 'Tack', 'Yep' oder 'Top').",
+      "Konditioniere das Markersignal in einer ruhigen Umgebung etwa 10 bis 15 Mal: Sage den Marker und gib deinem Hund unmittelbar danach die Belohnung.",
+      "Wichtig: Dein Hund muss hier noch kein bestimmtes Verhalten zeigen. Er hört lediglich den Marker und erhält direkt eine Belohnung.",
+      "Teste, ob der Marker bereits gut konditioniert ist: Sage deinen Marker und achte genau auf die Reaktion deines Hundes. Schaut er zu dir oder wird aufmerksam? Super! Belohne ihn auf jeden Fall.", 
+      "Reagiert dein Hund nicht, geh einen Schritt zurück und konditioniere den Marker erneut ein paar Durchläufe lang.", 
+      "Wichtig: Das Markersignal ist immer ein Versprechen für eine Belohnung. Auch wenn du versehentlich falsch markerst, bekommt dein Hund trotzdem seine Belohnung."
     ],
     "category": "basic",
     "difficulty": "beginner",
     "duration": 5,
     "location": "both",
     "mediaURLs": [
+      "https://pawsunited.ch/dog-activity-app/images/Markersignal_Titelbild.jpeg", 
+      "https://pawsunited.ch/dog-activity-app/images/Markersignal_Illustration.jpg"
     ],
     "mediaType": "image",
     "tags": [
-      "Grundkommando",
+      "Grundlagen", 
       "Anfänger", 
-      "Gehorsam"
-    ]
+      "Training", 
+      "Positive Verstärkung"
+    ], 
+    "link": "https://pawsunited.ch/verlorenen-suche/"
   }
 ]
