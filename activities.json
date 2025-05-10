@@ -1,236 +1,431 @@
 [
-  {
-    "id": "E4D9C3B1-F1E5-4B7C-8C4A-0F1D7E9B2A1C",
-    "title": "Pause machen",
-    "description": "Mach mal eine Pause und geniesse die Natur!",
-    "instructions": [
-      "Sucht euch einen schönen Ort in der Natur.",
-      "Zum Beispiel eine schöne Parkbank unterwegs.",
-      "Wenn du das regelmässig machst wirst du merken, dass dein Hund an diesem Ort Pause machen möchte ;-).",
-      "Mach das am besten mehrmals pro Woche."
-    ],
-    "category": "basic",
-    "difficulty": "beginner",
-    "duration": 10,
-    "location": "outdoor",
-    "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/images/pause_machen.jpeg"
-    ],
-    "mediaType": "image",
-    "tags": [
-      "Grundkommando",
-      "Anfänger",
-      "Entspannung"
-    ]
-  },
-  {
-    "id": "A2B8D5E9-C7F0-4A3B-9E1D-5C6B8A0F3D7E",
-    "title": "Handtouch",
-    "description": "Lass deinen Hund mit der Nase deine Hand anstupsen. Dieser Trick kann unterwegs als Alternativverhalten nützlich sein.",
-    "instructions": [
-      "Voraussetzung: Dein Hund kennt den Handtouch bereits.",
-      "Frage den Trick unterwegs ein paar Mal ab.",
-      "Fange ohne Ablenkung an und steigere langsam.",
-      "Sobald dein Hund die Hand anstupst, gib dein Markerwort (falls vorhanden) und eine passende Belohnung."
-    ],
-    "category": "trick",
-    "difficulty": "beginner",
-    "duration": 5,
-    "location": "outdoor",
-    "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/videos/lina-macht-handtouch.mp4" 
-    ],
-    "mediaType": "video",
-    "tags": [
-      "Grundkommando",
-      "Beschäftigung",
-      "Trick"
-    ], 
-    "link": "https://pawsunited.ch/der-handtouch-vielseitig-einsetzbar/"
-  },
-  {
-    "id": "F9C6A0B3-D8E7-4C5A-A1B0-9D2E7F8B4C6D",
-    "title": "Bänkli (Parkbank) anzeigen",
-    "description": "Lass dir von deinem Hund unterwegs Bänkli (Parkbänke) anzeigen.",
-    "instructions": [
-      "Lobe deinen Hund (oder Marker & Belohnung), sobald er sich einem Bänkli nähert.",
-      "Zögere das Lob hinaus, bis der Hund das Bänkli anstupst (oder ein anderes Anzeigeverhalten wie 'Sitz' zeigt)",
-      "Wenn dein Hund zuverlässig die Bänkli ansteuert, kannst du dein Signalwort einführen.",
-      "Sage bei der nächsten Parkbank dein Signalwort und lobe deinen Hund, wenn er sie anzeigt."
-    ],
-    "category": "trick",
-    "difficulty": "intermediate",
-    "duration": 5,
-    "location": "outdoor",
-    "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/videos/lina-zeigt-baenggli.mp4" 
-    ],
-    "mediaType": "video",
-    "tags": [
-      "Beschäftigung",
-      "Spass"
-    ]
-  },
-  {
-    "id": "B7D1E5F0-A3C8-4B9D-8E6A-1F0D9C4B7A2E",
-    "title": "Einparkieren / Garage",
-    "description": "Lass deinen Hund zwischen deinen Beinen 'einparkieren' (Position Sitz oder Steh). Das kann praktisch sein, um ihm in schwierigen Situationen eine sichere Position zu bieten.",
-    "instructions": [
-      "Wichtig: Achte darauf, dass dein Hund keine Angst hat, zwischen deine Beine zu kommen (manchen Hunden ist das unangenehm).",
-      "Du kannst deinen Hund zum Beispiel von hinten zwischen deine Beine in die Position locken.",
-      "Beginne ohne Ablenkung, am besten zuhause.",
-      "Übe an verschiedenen Orten, aber steigere die Ablenkung langsam!"
-    ],
-    "category": "basic",
-    "difficulty": "intermediate",
-    "duration": 5,
-    "location": "both",
-    "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/images/einparkieren_garage.jpeg"
-    ],
-    "mediaType": "image",
-    "tags": [
-      "Grundkommando",
-      "Beschäftigung"
-    ]
-  },
-  {
-    "id": "C1A0B9D4-E6F2-4A7C-B3D8-7E5F1C0A9B8D", 
-    "title": "Frisbee-Training",
-    "description": "Spiele mit deinem Hund Frisbee oder etwas anderes, das euch Spass macht.",
-    "instructions": [
-      "Suche dir einen geeigneten Ort, wo du etwas Platz hast, zum Beispiel eine freie Wiese.",
-      "Beginne langsam mit weniger weiten Würfen.",
-      "Lobe deinen Hund und freue dich, wenn er mitspielt. Ob er den Frisbee 'schön' fängt, ist dabei nebensächlich.",
-      "Mache lieber weniger Durchgänge (vielleicht 4 oder 5), damit dein Hund motiviert bleibt.", 
-      "Wichtig: Hilf deinem Hund dabei, am Ende herunter zu fahren, zum Beispiel mit einer Futtersuche (Stichwort: Erregungswellen fahren).",
-      "Voraussetzung: Dein Hund sollte natürlich gesund sein für dieses Spiel.", 
-      "Tipp: Nimm etwas Wasser mit, damit dein Hund trinken kann."
-    ],
-    "category": "physical",
-    "difficulty": "intermediate",
-    "duration": 20,
-    "location": "outdoor",
-    "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/videos/frisbee-spiel_lina.mp4"
-    ],
-    "mediaType": "video",
-    "tags": [
-      "Training",
-      "Koordination", 
-      "Spass"
-    ], 
-    "link": "https://pawsunited.ch/erregungswellen-fahren/"
-  }, 
-  {
-    "id": "123E4567-E89B-12D3-A456-426655440000",
-    "title": "Verlorenen-Suche",
-    "description": "Dein Hund sucht einen Gegenstand, den du auf deiner Rückspur 'verloren' hast.",
-    "instructions": [
-      "Lasse einen Gegenstand fallen, der den Hund interessiert, wie zum Beispiel einen Futterbeutel oder ein Spielzeug.",
-      "Dein Hund geht zum Gegenstand? Super, lobe ihn!",
-      "Falls nicht, kannst du ihm etwas helfen. Sag 'Oh, ich habe etwas verloren', mache eine Geste und gehe zum Gegenstand. Dein Hund wird ziemlich sicher Interesse daran zeigen.",
-      "Wenn dein Hund zuverlässig Interesse zeigt, kannst du den Gegenstand unauffällig 'verlieren', dann die Geste machen und deinen Hund suchen lassen.",
-      "Lobe deinen Hund, wenn er den Gegenstand findet.",
-      "Dein Hund muss den Gegenstand nicht unbedingt apportieren, das hängt von eurem Trainingsziel ab.",
-      "Hinweis: Die Suche findet auf der Rückspur statt, also auf deiner zuvor gelaufenen Spur. Die Idee ist, dass der Hund deiner Rückspur folgen und so den Gegenstand finden kann.",
-      "Als Steigerung kannst du den Gegenstand vor einer Kurve 'verlieren' und erst nach der Kurve das Signal geben."
-    ],
-    "category": "search",
-    "difficulty": "intermediate",
-    "duration": 10,
-    "location": "outdoor",
-    "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/videos/verlorenensuche_lina.mp4"
-    ],
-    "mediaType": "video",
-    "tags": [
-      "Beschäftigung",
-      "Spass",
-      "Suchspiel"
-    ],
-    "link": "https://pawsunited.ch/verlorenen-suche/"
-  },
-  {
-    "id": "234E5678-F9A0-23D4-B567-537766550000",
-    "title": "Twist (Drehung)",
-    "description": "Bringe deinem Hund bei, sich auf Kommando um die eigene Achse zu drehen - wahlweise im oder gegen den Uhrzeigersinn.",
-    "instructions": [
-      "Beginne mit der Übung, indem du deinen Hund mit Leckerlis in einer kreisförmigen Bewegung führst - zunächst über einen halben, dann über einen ganzen Kreis.",
-      "Beobachte, in welche Richtung sich dein Hund natürlicherweise lieber dreht. Die meisten Hunde haben eine bevorzugte Drehrichtung.",
-      "Sobald dein Hund die Drehbewegung sicher ausführt, führe das Kommando 'Twist' ein.",
-      "Wichtig: Gib immer erst das Hörzeichen (Kommando), dann das Sichtzeichen (Handzeichen).",
-      "Übe den Trick auch in die Gegenrichtung. Für die Drehung nach links wird häufig das Kommando 'Emu' verwendet"
-    ],
-    "category": "trick",
-    "difficulty": "beginner",
-    "duration": 5,
-    "location": "both",
-    "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/videos/twist-drehen.mp4"
-    ],
-    "mediaType": "video",
-    "tags": [
-      "Trick",
-      "Beschäftigung",
-      "Spass"
-    ]
-  },
-  {
-    "id": "345E6789-F0B1-34D5-C678-648877660000",
-    "title": "Markersignal beibringen",
-    "description": "Bringe deinem Hund das Markersignal bei, um erwünschtes Verhalten effektiver belohnen zu können. Mit dem Markersignal (oder Clicker) kannst du Verhalten punktgenau und sogar auf Distanz markieren und anschliessend belohnen.",
-    "instructions": [
-      "Wähle ein kurzes und einprägsames Markersignal (z. B. 'Click', 'Tack', 'Yep' oder 'Top').",
-      "Konditioniere das Markersignal in einer ruhigen Umgebung etwa 10 bis 15 Mal: Sage den Marker und gib deinem Hund unmittelbar danach die Belohnung.",
-      "Wichtig: Dein Hund muss hier noch kein bestimmtes Verhalten zeigen. Er hört lediglich den Marker und erhält direkt eine Belohnung.",
-      "Teste, ob der Marker bereits gut konditioniert ist: Sage deinen Marker und achte genau auf die Reaktion deines Hundes. Schaut er zu dir oder wird aufmerksam? Super! Belohne ihn auf jeden Fall.", 
-      "Reagiert dein Hund nicht, geh einen Schritt zurück und konditioniere den Marker erneut ein paar Durchläufe lang.", 
-      "Wichtig: Das Markersignal ist immer ein Versprechen für eine Belohnung. Auch wenn du versehentlich falsch markerst, bekommt dein Hund trotzdem seine Belohnung."
-    ],
-    "category": "basic",
-    "difficulty": "beginner",
-    "duration": 5,
-    "location": "both",
-    "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/images/Markersignal_Titelbild.jpeg", 
-      "https://pawsunited.ch/dog-activity-app/images/Markersignal_Illustration.jpg"
-    ],
-    "mediaType": "image",
-    "tags": [
-      "Grundlagen", 
-      "Anfänger", 
-      "Training", 
-      "Positive Verstärkung"
-    ], 
-    "link": "https://pawsunited.ch/die-macht-der-konditionierung/"
-  },
-  {
-    "id": "E7C3B9A1-F0D8-4E5A-B2C1-D6A0F9E8B7C4",
-    "title": "Markersignal beibringen (PDF)",
-    "description": "Bringe deinem Hund das Markersignal bei, um erwünschtes Verhalten effektiver belohnen zu können. Mit dem Markersignal (oder Clicker) kannst du Verhalten punktgenau und sogar auf Distanz markieren und anschliessend belohnen.",
-    "instructions": [
-      "Wähle ein kurzes und einprägsames Markersignal (z. B. 'Click', 'Tack', 'Yep' oder 'Top').",
-      "Konditioniere das Markersignal in einer ruhigen Umgebung etwa 10 bis 15 Mal: Sage den Marker und gib deinem Hund unmittelbar danach die Belohnung.",
-      "Wichtig: Dein Hund muss hier noch kein bestimmtes Verhalten zeigen. Er hört lediglich den Marker und erhält direkt eine Belohnung.",
-      "Teste, ob der Marker bereits gut konditioniert ist: Sage deinen Marker und achte genau auf die Reaktion deines Hundes. Schaut er zu dir oder wird aufmerksam? Super! Belohne ihn auf jeden Fall.", 
-      "Reagiert dein Hund nicht, geh einen Schritt zurück und konditioniere den Marker erneut ein paar Durchläufe lang.", 
-      "Wichtig: Das Markersignal ist immer ein Versprechen für eine Belohnung. Auch wenn du versehentlich falsch markerst, bekommt dein Hund trotzdem seine Belohnung."
-    ],
-    "category": "basic",
-    "difficulty": "beginner",
-    "duration": 5,
-    "location": "both",
-    "mediaURLs": [
-      "https://pawsunited.ch/dog-activity-app/pdf/Illustration_Markersignal.pdf"
-    ],
-    "mediaType": "pdf",
-    "tags": [
-      "Grundlagen", 
-      "Anfänger", 
-      "Training", 
-      "Positive Verstärkung"
-    ], 
-    "link": "https://pawsunited.ch/die-macht-der-konditionierung/"
-  }
+    {
+        "id": "E4D9C3B1-F1E5-4B7C-8C4A-0F1D7E9B2A1C",
+        "title": {
+            "de": "Pause machen",
+            "en": "Take a Break"
+        },
+        "description": {
+            "de": "Mach mal eine Pause und geniesse die Natur!",
+            "en": "Take a break and enjoy nature!"
+        },
+        "instructions": {
+            "de": [
+                "Sucht euch einen schönen Ort in der Natur.",
+                "Zum Beispiel eine schöne Parkbank unterwegs.",
+                "Wenn du das regelmässig machst wirst du merken, dass dein Hund an diesem Ort Pause machen möchte ;-).",
+                "Mach das am besten mehrmals pro Woche."
+            ],
+            "en": [
+                "Find a nice place in nature.",
+                "For example, a beautiful park bench on your way.",
+                "If you do this regularly, you'll notice that your dog wants to take a break at this spot ;-).",
+                "It's best to do this several times a week."
+            ]
+        },
+        "category": "basic",
+        "difficulty": "beginner",
+        "duration": 10,
+        "location": "outdoor",
+        "mediaURLs": [
+            "https://pawsunited.ch/dog-activity-app/images/pause_machen.jpeg"
+        ],
+        "mediaType": "image",
+        "tags": {
+            "de": [
+                "Grundkommando",
+                "Entspannung"
+            ],
+            "en": [
+                "Basic Command",
+                "Relaxation"
+            ]
+        }
+    },
+    {
+        "id": "A2B8D5E9-C7F0-4A3B-9E1D-5C6B8A0F3D7E",
+        "title": {
+            "de": "Handtouch",
+            "en": "Hand Touch"
+        },
+        "description": {
+            "de": "Lass deinen Hund mit der Nase deine Hand anstupsen. Dieser Trick kann unterwegs als Alternativverhalten nützlich sein.",
+            "en": "Let your dog touch your hand with his nose. This trick can be useful as an alternative behavior when you're out."
+        },
+        "instructions": {
+            "de": [
+                "Voraussetzung: Dein Hund kennt den Handtouch bereits.",
+                "Frage den Trick unterwegs ein paar Mal ab.",
+                "Fange ohne Ablenkung an und steigere langsam.",
+                "Sobald dein Hund die Hand anstupst, gib dein Markerwort (falls vorhanden) und eine passende Belohnung."
+            ],
+            "en": [
+                "Prerequisite: Your dog already knows the hand touch.",
+                "Ask for the trick a few times when you're out.",
+                "Start without distractions and gradually increase.",
+                "As soon as your dog touches your hand, give your marker word (if available) and an appropriate reward."
+            ]
+        },
+        "category": "trick",
+        "difficulty": "beginner",
+        "duration": 5,
+        "location": "outdoor",
+        "mediaURLs": [
+            "https://pawsunited.ch/dog-activity-app/videos/lina-macht-handtouch.mp4"
+        ],
+        "mediaType": "video",
+        "tags": {
+            "de": [
+                "Grundkommando",
+                "Beschäftigung",
+                "Trick"
+            ],
+            "en": [
+                "Basic Command",
+                "Activity",
+                "Trick"
+            ]
+        },
+        "link": "https://pawsunited.ch/der-handtouch-vielseitig-einsetzbar/"
+    },
+    {
+        "id": "F9C6A0B3-D8E7-4C5A-A1B0-9D2E7F8B4C6D",
+        "title": {
+            "de": "Bänkli (Parkbank) anzeigen",
+            "en": "Indicate a Bench"
+        },
+        "description": {
+            "de": "Lass dir von deinem Hund unterwegs Bänkli (Parkbänke) anzeigen.",
+            "en": "Let your dog show you benches while you're out walking."
+        },
+        "instructions": {
+            "de": [
+                "Lobe deinen Hund (oder Marker & Belohnung), sobald er sich einem Bänkli nähert.",
+                "Zögere das Lob hinaus, bis der Hund das Bänkli anstupst (oder ein anderes Anzeigeverhalten wie 'Sitz' zeigt)",
+                "Wenn dein Hund zuverlässig die Bänkli ansteuert, kannst du dein Signalwort einführen.",
+                "Sage bei der nächsten Parkbank dein Signalwort und lobe deinen Hund, wenn er sie anzeigt."
+            ],
+            "en": [
+                "Praise your dog (or marker & reward) as soon as he approaches a bench.",
+                "Delay the praise until the dog touches the bench (or shows another indicating behavior like 'sit')",
+                "When your dog reliably approaches benches, you can introduce your cue word.",
+                "Say your cue word at the next bench and praise your dog when he indicates it."
+            ]
+        },
+        "category": "trick",
+        "difficulty": "intermediate",
+        "duration": 5,
+        "location": "outdoor",
+        "mediaURLs": [
+            "https://pawsunited.ch/dog-activity-app/videos/lina-zeigt-baenggli.mp4"
+        ],
+        "mediaType": "video",
+        "tags": {
+            "de": [
+                "Beschäftigung",
+                "Spass"
+            ],
+            "en": [
+                "Activity",
+                "Fun"
+            ]
+        }
+    },
+    {
+        "id": "B7D1E5F0-A3C8-4B9D-8E6A-1F0D9C4B7A2E",
+        "title": {
+            "de": "Einparkieren / Garage",
+            "en": "Center / Garage"
+        },
+        "description": {
+            "de": "Lass deinen Hund zwischen deinen Beinen 'einparkieren' (Position Sitz oder Steh). Das kann praktisch sein, um ihm in schwierigen Situationen eine sichere Position zu bieten.",
+            "en": "Let your dog position himself between your legs (sit or stand position). This can be useful to give him a safe position in difficult situations."
+        },
+        "instructions": {
+            "de": [
+                "Wichtig: Achte darauf, dass dein Hund keine Angst hat, zwischen deine Beine zu kommen (manchen Hunden ist das unangenehm).",
+                "Du kannst deinen Hund zum Beispiel von hinten zwischen deine Beine in die Position locken.",
+                "Beginne ohne Ablenkung, am besten zuhause.",
+                "Übe an verschiedenen Orten, aber steigere die Ablenkung langsam!"
+            ],
+            "en": [
+                "Important: Make sure your dog isn't afraid to come between your legs (some dogs find this uncomfortable).",
+                "You can lure your dog into position from behind, between your legs.",
+                "Start without distractions, preferably at home.",
+                "Practice in different locations, but increase distractions slowly!"
+            ]
+        },
+        "category": "basic",
+        "difficulty": "intermediate",
+        "duration": 5,
+        "location": "both",
+        "mediaURLs": [
+            "https://pawsunited.ch/dog-activity-app/images/einparkieren_garage.jpeg"
+        ],
+        "mediaType": "image",
+        "tags": {
+            "de": [
+                "Grundkommando",
+                "Beschäftigung"
+            ],
+            "en": [
+                "Basic Command",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "id": "C1A0B9D4-E6F2-4A7C-B3D8-7E5F1C0A9B8D",
+        "title": {
+            "de": "Frisbee-Training",
+            "en": "Frisbee Training"
+        },
+        "description": {
+            "de": "Spiele mit deinem Hund Frisbee oder etwas anderes, das euch Spass macht.",
+            "en": "Play frisbee with your dog or something else that you both enjoy."
+        },
+        "instructions": {
+            "de": [
+                "Suche dir einen geeigneten Ort, wo du etwas Platz hast, zum Beispiel eine freie Wiese.",
+                "Beginne langsam mit weniger weiten Würfen.",
+                "Lobe deinen Hund und freue dich, wenn er mitspielt. Ob er den Frisbee 'schön' fängt, ist dabei nebensächlich.",
+                "Mache lieber weniger Durchgänge (vielleicht 4 oder 5), damit dein Hund motiviert bleibt.",
+                "Wichtig: Hilf deinem Hund dabei, am Ende herunter zu fahren, zum Beispiel mit einer Futtersuche (Stichwort: Erregungswellen fahren).",
+                "Voraussetzung: Dein Hund sollte natürlich gesund sein für dieses Spiel.",
+                "Tipp: Nimm etwas Wasser mit, damit dein Hund trinken kann."
+            ],
+            "en": [
+                "Find a suitable location where you have some space, such as an open field.",
+                "Start slowly with shorter throws.",
+                "Praise your dog and enjoy when he plays along. Whether he catches the frisbee 'nicely' is secondary.",
+                "Do fewer rounds (maybe 4 or 5) to keep your dog motivated.",
+                "Important: Help your dog cool down at the end, for example with a food search (keyword: arousal regulation).",
+                "Prerequisite: Your dog should of course be healthy for this game.",
+                "Tip: Bring some water so your dog can drink."
+            ]
+        },
+        "category": "physical",
+        "difficulty": "intermediate",
+        "duration": 20,
+        "location": "outdoor",
+        "mediaURLs": [
+            "https://pawsunited.ch/dog-activity-app/videos/frisbee-spiel_lina.mp4"
+        ],
+        "mediaType": "video",
+        "tags": {
+            "de": [
+                "Training",
+                "Koordination",
+                "Spass"
+            ],
+            "en": [
+                "Training",
+                "Coordination",
+                "Fun"
+            ]
+        },
+        "link": "https://pawsunited.ch/erregungswellen-fahren/"
+    },
+    {
+        "id": "123E4567-E89B-12D3-A456-426655440000",
+        "title": {
+            "de": "Verlorenen-Suche",
+            "en": "Lost Item Search"
+        },
+        "description": {
+            "de": "Dein Hund sucht einen Gegenstand, den du auf deiner Rückspur 'verloren' hast.",
+            "en": "Your dog searches for an item that you 'lost' on your backtrack."
+        },
+        "instructions": {
+            "de": [
+                "Lasse einen Gegenstand fallen, der den Hund interessiert, wie zum Beispiel einen Futterbeutel oder ein Spielzeug.",
+                "Dein Hund geht zum Gegenstand? Super, lobe ihn!",
+                "Falls nicht, kannst du ihm etwas helfen. Sag 'Oh, ich habe etwas verloren', mache eine Geste und gehe zum Gegenstand. Dein Hund wird ziemlich sicher Interesse daran zeigen.",
+                "Wenn dein Hund zuverlässig Interesse zeigt, kannst du den Gegenstand unauffällig 'verlieren', dann die Geste machen und deinen Hund suchen lassen.",
+                "Lobe deinen Hund, wenn er den Gegenstand findet.",
+                "Dein Hund muss den Gegenstand nicht unbedingt apportieren, das hängt von eurem Trainingsziel ab.",
+                "Hinweis: Die Suche findet auf der Rückspur statt, also auf deiner zuvor gelaufenen Spur. Die Idee ist, dass der Hund deiner Rückspur folgen und so den Gegenstand finden kann.",
+                "Als Steigerung kannst du den Gegenstand vor einer Kurve 'verlieren' und erst nach der Kurve das Signal geben."
+            ],
+            "en": [
+                "Drop an item that interests the dog, such as a treat pouch or a toy.",
+                "Your dog goes to the item? Great, praise him!",
+                "If not, you can help him a bit. Say 'Oh, I lost something', make a gesture and go to the item. Your dog will almost certainly show interest in it.",
+                "When your dog consistently shows interest, you can discreetly 'lose' the item, then make the gesture and let your dog search.",
+                "Praise your dog when he finds the item.",
+                "Your dog doesn't necessarily have to retrieve the item; it depends on your training goal.",
+                "Note: The search takes place on the backtrack, i.e., on your previously walked path. The idea is that the dog follows your backtrack and thus can find the item.",
+                "As an increase in difficulty, you can 'lose' the item before a curve and only give the signal after the curve."
+            ]
+        },
+        "category": "search",
+        "difficulty": "intermediate",
+        "duration": 10,
+        "location": "outdoor",
+        "mediaURLs": [
+            "https://pawsunited.ch/dog-activity-app/videos/verlorenensuche_lina.mp4"
+        ],
+        "mediaType": "video",
+        "tags": {
+            "de": [
+                "Beschäftigung",
+                "Spass",
+                "Suchspiel"
+            ],
+            "en": [
+                "Activity",
+                "Fun",
+                "Search Game"
+            ]
+        },
+        "link": "https://pawsunited.ch/verlorenen-suche/"
+    },
+    {
+      "id": "234E5678-F9A0-23D4-B567-537766550000",
+      "title": {
+        "de": "Twist (Drehung)",
+        "en": "Twist (Turn)"
+      },
+      "description": {
+        "de": "Bringe deinem Hund bei, sich auf Kommando um die eigene Achse zu drehen - wahlweise im oder gegen den Uhrzeigersinn.",
+        "en": "Teach your dog to spin around his own axis on command - optionally clockwise or counterclockwise."
+      },
+      "instructions": {
+        "de": [
+          "Beginne mit der Übung, indem du deinen Hund mit Leckerlis in einer kreisförmigen Bewegung führst - zunächst über einen halben, dann über einen ganzen Kreis.",
+          "Beobachte, in welche Richtung sich dein Hund natürlicherweise lieber dreht. Die meisten Hunde haben eine bevorzugte Drehrichtung.",
+          "Sobald dein Hund die Drehbewegung sicher ausführt, führe das Kommando 'Twist' ein.",
+          "Wichtig: Gib immer erst das Hörzeichen (Kommando), dann das Sichtzeichen (Handzeichen).",
+          "Übe den Trick auch in die Gegenrichtung. Für die Drehung nach links wird häufig das Kommando 'Emu' verwendet"
+        ],
+        "en": [
+          "Start the exercise by guiding your dog with treats in a circular motion - first over a half circle, then over a full circle.",
+          "Observe in which direction your dog naturally prefers to turn. Most dogs have a preferred direction of rotation.",
+          "Once your dog performs the turning movement confidently, introduce the command 'Twist'.",
+          "Important: Always give the verbal cue (command) first, then the visual cue (hand signal).",
+          "Practice the trick in the opposite direction as well. For turning to the left, the command 'Emu' is often used"
+        ]
+      },
+      "category": "trick",
+      "difficulty": "beginner",
+      "duration": 5,
+      "location": "both",
+      "mediaURLs": [
+        "https://pawsunited.ch/dog-activity-app/videos/twist-drehen.mp4"
+      ],
+      "mediaType": "video",
+      "tags": {
+        "de": [
+          "Trick",
+          "Beschäftigung",
+          "Spass"
+        ],
+        "en": [
+          "Trick",
+          "Activity",
+          "Fun"
+        ]
+      }
+    },
+    {
+      "id": "345E6789-F0B1-34D5-C678-648877660000",
+      "title": {
+        "de": "Markersignal beibringen",
+        "en": "Teaching a Marker Signal"
+      },
+      "description": {
+        "de": "Bringe deinem Hund das Markersignal bei, um erwünschtes Verhalten effektiver belohnen zu können. Mit dem Markersignal (oder Clicker) kannst du Verhalten punktgenau und sogar auf Distanz markieren und anschliessend belohnen.",
+        "en": "Teach your dog the marker signal to reward desired behavior more effectively. With the marker signal (or clicker), you can mark behavior precisely and even at a distance and then reward it."
+      },
+      "instructions": {
+        "de": [
+          "Wähle ein kurzes und einprägsames Markersignal (z. B. 'Click', 'Tack', 'Yep' oder 'Top').",
+          "Konditioniere das Markersignal in einer ruhigen Umgebung etwa 10 bis 15 Mal: Sage den Marker und gib deinem Hund unmittelbar danach die Belohnung.",
+          "Wichtig: Dein Hund muss hier noch kein bestimmtes Verhalten zeigen. Er hört lediglich den Marker und erhält direkt eine Belohnung.",
+          "Teste, ob der Marker bereits gut konditioniert ist: Sage deinen Marker und achte genau auf die Reaktion deines Hundes. Schaut er zu dir oder wird aufmerksam? Super! Belohne ihn auf jeden Fall.",
+          "Reagiert dein Hund nicht, geh einen Schritt zurück und konditioniere den Marker erneut ein paar Durchläufe lang.",
+          "Wichtig: Das Markersignal ist immer ein Versprechen für eine Belohnung. Auch wenn du versehentlich falsch markerst, bekommt dein Hund trotzdem seine Belohnung."
+        ],
+        "en": [
+          "Choose a short and memorable marker signal (e.g., 'Click', 'Yes', 'Good' or 'Top').",
+          "Condition the marker signal in a quiet environment about 10 to 15 times: Say the marker and give your dog the reward immediately afterward.",
+          "Important: Your dog doesn't need to show any specific behavior here. He just hears the marker and receives a reward directly.",
+          "Test if the marker is already well conditioned: Say your marker and pay close attention to your dog's reaction. Does he look at you or become alert? Great! Reward him in any case.",
+          "If your dog doesn't react, go back a step and recondition the marker for a few more repetitions.",
+          "Important: The marker signal is always a promise for a reward. Even if you accidentally mark incorrectly, your dog still gets his reward."
+        ]
+      },
+      "category": "basic",
+      "difficulty": "beginner",
+      "duration": 5,
+      "location": "both",
+      "mediaURLs": [
+        "https://pawsunited.ch/dog-activity-app/images/Markersignal_Titelbild.jpeg",
+        "https://pawsunited.ch/dog-activity-app/images/Markersignal_Illustration.jpg"
+      ],
+      "mediaType": "image",
+      "tags": {
+        "de": [
+          "Grundlagen",
+          "Training",
+          "Positive Verstärkung"
+        ],
+        "en": [
+          "Basics",
+          "Training",
+          "Positive Reinforcement"
+        ]
+      },
+      "link": "https://pawsunited.ch/die-macht-der-konditionierung/"
+    },
+    {
+      "id": "E7C3B9A1-F0D8-4E5A-B2C1-D6A0F9E8B7C4",
+      "title": {
+        "de": "Markersignal beibringen (PDF)",
+        "en": "Teaching a Marker Signal (PDF)"
+      },
+      "description": {
+        "de": "Bringe deinem Hund das Markersignal bei, um erwünschtes Verhalten effektiver belohnen zu können. Mit dem Markersignal (oder Clicker) kannst du Verhalten punktgenau und sogar auf Distanz markieren und anschliessend belohnen.",
+        "en": "Teach your dog the marker signal to reward desired behavior more effectively. With the marker signal (or clicker), you can mark behavior precisely and even at a distance and then reward it."
+      },
+      "instructions": {
+        "de": [
+          "Wähle ein kurzes und einprägsames Markersignal (z. B. 'Click', 'Tack', 'Yep' oder 'Top').",
+          "Konditioniere das Markersignal in einer ruhigen Umgebung etwa 10 bis 15 Mal: Sage den Marker und gib deinem Hund unmittelbar danach die Belohnung.",
+          "Wichtig: Dein Hund muss hier noch kein bestimmtes Verhalten zeigen. Er hört lediglich den Marker und erhält direkt eine Belohnung.",
+          "Teste, ob der Marker bereits gut konditioniert ist: Sage deinen Marker und achte genau auf die Reaktion deines Hundes. Schaut er zu dir oder wird aufmerksam? Super! Belohne ihn auf jeden Fall.",
+          "Reagiert dein Hund nicht, geh einen Schritt zurück und konditioniere den Marker erneut ein paar Durchläufe lang.",
+          "Wichtig: Das Markersignal ist immer ein Versprechen für eine Belohnung. Auch wenn du versehentlich falsch markerst, bekommt dein Hund trotzdem seine Belohnung."
+        ],
+        "en": [
+          "Choose a short and memorable marker signal (e.g., 'Click', 'Yes', 'Good' or 'Top').",
+          "Condition the marker signal in a quiet environment about 10 to 15 times: Say the marker and give your dog the reward immediately afterward.",
+          "Important: Your dog doesn't need to show any specific behavior here. He just hears the marker and receives a reward directly.",
+          "Test if the marker is already well conditioned: Say your marker and pay close attention to your dog's reaction. Does he look at you or become alert? Great! Reward him in any case.",
+          "If your dog doesn't react, go back a step and recondition the marker for a few more repetitions.",
+          "Important: The marker signal is always a promise for a reward. Even if you accidentally mark incorrectly, your dog still gets his reward."
+        ]
+      },
+      "category": "basic",
+      "difficulty": "beginner",
+      "duration": 5,
+      "location": "both",
+      "mediaURLs": [
+        "https://pawsunited.ch/dog-activity-app/pdf/Illustration_Markersignal.pdf"
+      ],
+      "mediaType": "pdf",
+      "tags": {
+        "de": [
+          "Grundlagen",
+          "Training",
+          "Positive Verstärkung"
+        ],
+        "en": [
+          "Basics",
+          "Training",
+          "Positive Reinforcement"
+        ]
+      },
+      "link": "https://pawsunited.ch/die-macht-der-konditionierung/"
+    }
 ]
