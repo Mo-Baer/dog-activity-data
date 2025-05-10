@@ -472,30 +472,5 @@
       "DIY Toy"
     ]
   }
-},
-    {
-      "id": "9D2E4F7A-B3C8-4A15-9F6E-2B7D1C3E8A54",
-      "title": {
-        "de": "",
-        "en": ""
-      },
-      "description": {
-        "de": "",
-        "en": ""
-      },
-      "instructions": {
-        "de": [],
-        "en": []
-      },
-      "category": "",
-      "difficulty": "",
-      "duration": 0,
-      "location": "",
-      "mediaURLs": [],
-      "mediaType": "",
-      "tags": {
-        "de": [],
-        "en": []
-      }
-    }
+}
 ]
