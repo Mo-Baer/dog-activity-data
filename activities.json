@@ -427,5 +427,75 @@
         ]
       },
       "link": "https://pawsunited.ch/die-macht-der-konditionierung/"
+    }, 
+    {
+  "id": "A4F7D1C9-3B5E-4682-A9F4-1D7B2E5C8A93",
+  "title": {
+    "de": "Futterspielzeug WC-Rolle",
+    "en": "Toilet Paper Roll Treat Puzzle"
+  },
+  "description": {
+    "de": "Dein Hund lernt, Leckerlis geschickt aus einer präparierten WC-Rolle zu befreien und sich so seine Belohnung zu erarbeiten.",
+    "en": "Your dog learns to cleverly extract treats from a prepared toilet paper roll, working to earn their reward."
+  },
+  "instructions": {
+    "de": [
+      "Nimm eine leere WC-Rolle. Knicke ein Ende sorgfältig ein oder drücke es flach zusammen, sodass es verschlossen ist.",
+      "Fülle einige Lieblingsleckerlis deines Hundes in die offene Seite der Rolle.",
+      "Verschliesse nun auch das andere Ende, indem du es einknickst. Für Anfänger oder wenn dein Hund die Übung zum ersten Mal macht, kannst du dieses Ende zunächst offenlassen oder nur leicht zuknicken, um es ihm leichter zu machen.",
+      "Gib deinem Hund die präparierte WC-Rolle und ermutige ihn, die Leckerlis herauszufinden. Viel Spass dabei!",
+      "WICHTIG: Beaufsichtige deinen Hund während des Spiels genau und stelle sicher, dass er den Karton nicht frisst. Entferne die Reste der Rolle, sobald alle Leckerlis gefunden wurden."
+    ],
+    "en": [
+      "Take an empty toilet paper roll. Carefully fold one end in or press it flat so it's closed.",
+      "Fill some of your dog's favorite treats into the open side of the roll.",
+      "Now, close the other end as well by folding it in. For beginners, or if your dog is doing this for the first time, you can leave this end open or only fold it slightly to make it easier for them.",
+      "Give your dog the prepared toilet paper roll and encourage them to figure out how to get the treats. Have fun!",
+      "IMPORTANT: Supervise your dog closely during play and ensure they do not eat the cardboard. Remove the remains of the roll once all treats have been found."
+    ]
+  },
+  "category": "mental",
+  "difficulty": "beginner",
+  "duration": 10,
+  "location": "both",
+  "mediaURLs": [],
+  "mediaType": "image",
+  "tags": {
+    "de": [
+      "Spass",
+      "Beschäftigung",
+      "DIY Spielzeug"
+    ],
+    "en": [
+      "Fun",
+      "Activity",
+      "DIY Toy"
+    ]
+  }
+},
+    {
+      "id": "9D2E4F7A-B3C8-4A15-9F6E-2B7D1C3E8A54",
+      "title": {
+        "de": "",
+        "en": ""
+      },
+      "description": {
+        "de": "",
+        "en": ""
+      },
+      "instructions": {
+        "de": [],
+        "en": []
+      },
+      "category": "",
+      "difficulty": "",
+      "duration": 0,
+      "location": "",
+      "mediaURLs": [],
+      "mediaType": "",
+      "tags": {
+        "de": [],
+        "en": []
+      }
     }
 ]
