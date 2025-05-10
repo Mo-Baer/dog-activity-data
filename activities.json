@@ -458,7 +458,14 @@
   "difficulty": "beginner",
   "duration": 10,
   "location": "both",
-  "mediaURLs": [],
+  "mediaURLs": [
+      "https://pawsunited.ch/dog-activity-app/images/Futterspielzeug-WC-Rolle-1.jpeg",
+      "https://pawsunited.ch/dog-activity-app/images/Futterspielzeug-WC-Rolle-2.jpeg",
+      "https://pawsunited.ch/dog-activity-app/images/Futterspielzeug-WC-Rolle-3.jpeg",
+      "https://pawsunited.ch/dog-activity-app/images/Futterspielzeug-WC-Rolle-4.jpeg",
+      "https://pawsunited.ch/dog-activity-app/images/Futterspielzeug-WC-Rolle-5.jpeg",
+      "https://pawsunited.ch/dog-activity-app/images/Futterspielzeug-WC-Rolle-6.jpeg"
+  ],
   "mediaType": "image",
   "tags": {
     "de": [
