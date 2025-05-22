@@ -569,5 +569,121 @@
       "Fun"
     ]
   }
+}, 
+{
+  "id": "C5E8A1F7-B2D3-4E6A-9B0C-1D7F9A3B8C5E",
+  "title": {
+      "de": "Sitz in allen Lebenslagen",
+      "en": "Sit in Various Positions"
+  },
+  "description": {
+      "de": "Überprüfe, wie gut dein Hund das Signal 'Sitz' generalisiert hat. Reagiert er zuverlässig, auch wenn du deine Körperposition änderst oder dich abwendest?",
+      "en": "Test how well your dog has generalized the 'Sit' cue. Do they respond reliably even when you change your body position or turn away?"
+  },
+  "instructions": {
+      "de": [
+          "Voraussetzung: Dein Hund kennt das Kommando 'Sitz' bereits zuverlässig, wenn du normal vor ihm stehst.",
+          "Setze dich auf einen Stuhl oder auf den Boden. Gib nun das Signal 'Sitz' (Wort- oder Sichtsignal). Belohne deinen Hund sofort, wenn er sich setzt.",
+          "Probiere es als Nächstes im Knien. Bleibe ruhig und gib das Signal klar und wie gewohnt.",
+          "Eine grössere Herausforderung: Gib das Signal 'Sitz', während du auf dem Bauch oder auf der Seite liegst. Sei geduldig, dies ist für viele Hunde sehr ungewohnt.",
+          "Variiere deine Ausrichtung: Wende deinem Hund den Rücken halb oder ganz zu und gib dann das Signal 'Sitz'.",
+          "Achte genau darauf: Reagiert dein Hund primär auf dein Wortsignal, dein Sichtsignal oder hat er unbewusst deine übliche Körperhaltung beim 'Sitz'-Signal mit dem Kommando verknüpft?",
+          "Zeigt dein Hund das gewünschte Verhalten nicht, gehe einen Schritt zurück zu einer einfacheren Position, die er bereits gemeistert hat. Manchmal hilft es, das verbale Signal anfangs mit dem bekannten Sichtsignal zu unterstützen, wenn du deine Position stark veränderst.",
+          "Halte die Übungseinheiten kurz und positiv. Jede korrekte Reaktion, auch ein Ansatz in die richtige Richtung, wird gelobt und belohnt!"
+      ],
+      "en": [
+          "Prerequisite: Your dog already reliably knows the 'Sit' command when you are standing normally in front of them.",
+          "Sit down on a chair or on the floor. Now give the 'Sit' cue (verbal or visual signal). Reward your dog immediately if they sit.",
+          "Next, try it while kneeling. Stay calm and give the cue clearly and as usual.",
+          "A bigger challenge: Give the 'Sit' cue while you are lying on your stomach or side. Be patient, as this is very unusual for many dogs.",
+          "Vary your orientation: Turn your back halfway or fully to your dog and then give the 'Sit' cue.",
+          "Pay close attention: Does your dog primarily respond to your verbal cue, your visual cue, or have they unconsciously linked your usual body posture for the 'Sit' cue with the command?",
+          "If your dog doesn't show the desired behaviour, take a step back to an easier position they have already mastered. Sometimes it helps to initially support the verbal cue with the known visual signal if you change your position significantly.",
+          "Keep training sessions short and positive. Every correct response, even an attempt in the right direction, should be praised and rewarded!"
+      ]
+  },
+  "category": "basic",
+  "difficulty": "intermediate",
+  "duration": 5,
+  "location": "both",
+  "mediaURLs": [
+      ""
+  ],
+  "mediaType": "image",
+  "tags": {
+      "de": [
+          "Grundkommando",
+          "Generalisierung",
+          "Sitz",
+          "Körpersprache",
+          "Fokus"
+      ],
+      "en": [
+          "Basic Command",
+          "Generalization",
+          "Sit",
+          "Body Language",
+          "Focus"
+      ]
+  }
+},
+{
+  "id": "F3B7C1A9-D0E5-4F6A-8E2B-9C1D7A0B4C5D",
+  "title": {
+      "de": "Ume (Herum)",
+      "en": "Around / Circle"
+  },
+  "description": {
+      "de": "Lass deinen Hund einen Gegenstand umrunden. Ein nützlicher Trick, z.B. um einen Leinensalat elegant zu lösen.",
+      "en": "Teach your dog to go around an object. A useful trick, for example, to elegantly untangle a leash."
+  },
+  "instructions": {
+      "de": [
+          "Wähle einen stabilen Gegenstand (z.B. eine Pylone, ein Stuhl, oder draussen einen Baum). Achte darauf, dass der Hund sich nicht verletzen kann.",
+          "Beginne ohne Signalwort. Halte Leckerlis bereit, um deinen Hund an verschiedenen Lockpunkten um den Gegenstand herum zu belohnen.",
+          "Definiere anfangs mehrere Lockpunkte auf dem Weg um den Gegenstand: Belohne deinen Hund beispielsweise bei einer Viertel-, Halb-, Dreiviertel-Umdrehung und am Ende der vollen Umrundung. Du kannst die Leckerlis direkt aus der Hand geben, indem du deine Hand an diesen Punkten ruhig anbietest, oder sie kurz bevor der Hund sie erreicht auf den Boden legen.",
+          "Alternative für den Anfang: Platziere die Leckerlis bereits vorab an diesen Lockpunkten auf dem Boden und führe deinen Hund dann von einem Punkt zum nächsten, damit er sie einsammeln kann.",
+          "Sobald dein Hund die Bewegung mit mehreren Lockpunkten verstanden hat und die Punkte zielsicher anläuft, reduziere die Anzahl der Lockpunkte schrittweise (z.B. nur noch bei der halben und ganzen Umrundung, dann nur noch am Schluss).",
+          "Wenn dein Hund den Gegenstand zuverlässig auch mit nur noch einem finalen Lockpunkt (der Belohnung am Ende) umrundet, führe dein Wortsignal ein (z.B. Ume!, Herum! oder Zirkel!). Sage das Signal deutlich, kurz bevor dein Hund die Bewegung startet.",
+          "Wichtig: Wenn du zusätzlich ein Sichtsignal (z.B. eine zeigende oder kreisende Handbewegung in Richtung des Gegenstands) verwenden möchtest, gib dieses immer erst mit einem kleinen zeitlichen Abstand nach deinem Wortsignal.",
+          "Schleiche nun die Lockpunkte und die direkte Führung zu den Punkten vollständig aus. Gib dein Signal (Wort- und ggf. Sichtsignal), warte, bis dein Hund den Gegenstand umrundet hat, und gib dann dein Markersignal (falls vorhanden) und eine tolle Belohnung.",
+          "Übe mit verschiedenen Gegenständen und in unterschiedlichen Umgebungen, um den Trick zu generalisieren. Denke an Bäume oder Stangen, um unterwegs einen Leinensalat zu entwirren.",
+          "Halte die Trainingseinheiten kurz, positiv und belohne jeden Fortschritt."
+      ],
+      "en": [
+          "Choose a stable object (e.g., a pylon, a chair, or a tree outdoors). Ensure the dog cannot get injured.",
+          "Start without a cue word. Have treats ready to reward your dog at various lure points around the object.",
+          "Initially, define several lure points on the path around the object: For example, reward your dog at a quarter, half, three-quarters of the way around, and at the end of the full circle. You can give the treats directly from your hand by offering your hand steadily at these points, or place them on the floor just before the dog reaches them.",
+          "Alternative for starting: Place the treats on the floor at these lure points beforehand, and then guide your dog from one point to the next to collect them.",
+          "Once your dog understands the movement with multiple lure points and confidently approaches them, gradually reduce the number of lure points (e.g., only at the halfway point and at the end, then only at the very end).",
+          "When your dog reliably circles the object even with only one final lure point (the reward at the end), introduce your verbal cue (e.g., Around!, Circle!, or Ring!). Say the cue clearly, just before your dog starts the movement.",
+          "Important: If you also want to use a visual cue (e.g., a pointing or circling hand motion towards the object), always give this a short moment after your verbal cue.",
+          "Now, completely fade out the lure points and direct guidance to them. Give your cue (verbal and, if applicable, visual signal), wait until your dog has circled the object, and then give your marker signal (if you use one) and a great reward.",
+          "Practice with different objects and in various environments to generalize the trick. Think of trees or poles to untangle a leash when you are out and about.",
+          "Keep training sessions short, positive, and reward every bit of progress."
+      ]
+  },
+  "category": "trick",
+  "difficulty": "intermediate",
+  "duration": 10,
+  "location": "both",
+  "mediaURLs": [
+      ""
+  ],
+  "mediaType": "video",
+  "tags": {
+      "de": [
+          "Trick",
+          "Beschäftigung",
+          "Koordination",
+          "Distanzarbeit"
+      ],
+      "en": [
+          "Trick",
+          "Activity",
+          "Coordination",
+          "Distance Work"
+      ]
+  }
 }
 ]
