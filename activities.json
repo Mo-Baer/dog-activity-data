@@ -1,179 +1,212 @@
 [
-    {
-        "id": "E4D9C3B1-F1E5-4B7C-8C4A-0F1D7E9B2A1C",
-        "title": {
-            "de": "Pause machen",
-            "en": "Take a Break"
-        },
-        "description": {
-            "de": "Mach mal eine Pause und geniesse die Natur!",
-            "en": "Take a break and enjoy nature!"
-        },
-        "instructions": {
-            "de": [
-                "Sucht euch einen schönen Ort in der Natur.",
-                "Zum Beispiel eine schöne Parkbank unterwegs.",
-                "Wenn du das regelmässig machst wirst du merken, dass dein Hund an diesem Ort Pause machen möchte ;-).",
-                "Mach das am besten mehrmals pro Woche."
-            ],
-            "en": [
-                "Find a nice place in nature.",
-                "For example, a beautiful park bench on your way.",
-                "If you do this regularly, you'll notice that your dog wants to take a break at this spot ;-).",
-                "It's best to do this several times a week."
-            ]
-        },
-        "category": "basic",
-        "difficulty": "beginner",
-        "duration": 10,
-        "location": "outdoor",
-        "mediaURLs": [
-            "https://pawsunited.ch/dog-activity-app/images/pause_machen.jpeg"
-        ],
-        "mediaType": "image",
-        "tags": {
-            "de": [
-                "Grundkommando",
-                "Entspannung"
-            ],
-            "en": [
-                "Basic Command",
-                "Relaxation"
-            ]
-        }
+  {
+    "id": "E4D9C3B1-F1E5-4B7C-8C4A-0F1D7E9B2A1C",
+    "title": {
+        "de": "Pause machen",
+        "en": "Take a Break"
     },
-    {
-        "id": "A2B8D5E9-C7F0-4A3B-9E1D-5C6B8A0F3D7E",
-        "title": {
-            "de": "Handtouch",
-            "en": "Hand Touch"
-        },
-        "description": {
-            "de": "Lass deinen Hund mit der Nase deine Hand anstupsen. Dieser Trick kann unterwegs als Alternativverhalten nützlich sein.",
-            "en": "Let your dog touch your hand with his nose. This trick can be useful as an alternative behavior when you're out."
-        },
-        "instructions": {
-            "de": [
-                "Voraussetzung: Dein Hund kennt den Handtouch bereits.",
-                "Frage den Trick unterwegs ein paar Mal ab.",
-                "Fange ohne Ablenkung an und steigere langsam.",
-                "Sobald dein Hund die Hand anstupst, gib dein Markerwort (falls vorhanden) und eine passende Belohnung."
-            ],
-            "en": [
-                "Prerequisite: Your dog already knows the hand touch.",
-                "Ask for the trick a few times when you're out.",
-                "Start without distractions and gradually increase.",
-                "As soon as your dog touches your hand, give your marker word (if available) and an appropriate reward."
-            ]
-        },
-        "category": "trick",
-        "difficulty": "beginner",
-        "duration": 5,
-        "location": "outdoor",
-        "mediaURLs": [
-            "https://pawsunited.ch/dog-activity-app/videos/lina-macht-handtouch.mp4"
-        ],
-        "mediaType": "video",
-        "tags": {
-            "de": [
-                "Grundkommando",
-                "Beschäftigung",
-                "Trick"
-            ],
-            "en": [
-                "Basic Command",
-                "Activity",
-                "Trick"
-            ]
-        },
-        "link": "https://pawsunited.ch/der-handtouch-vielseitig-einsetzbar/"
+    "description": {
+        "de": "Mach mal eine Pause und geniesse die Natur!",
+        "en": "Take a break and enjoy nature!"
     },
-    {
-        "id": "F9C6A0B3-D8E7-4C5A-A1B0-9D2E7F8B4C6D",
-        "title": {
-            "de": "Bänkli (Parkbank) anzeigen",
-            "en": "Indicate a Bench"
-        },
-        "description": {
-            "de": "Lass dir von deinem Hund unterwegs Bänkli (Parkbänke) anzeigen.",
-            "en": "Let your dog show you benches while you're out walking."
-        },
-        "instructions": {
-            "de": [
-                "Lobe deinen Hund (oder Marker & Belohnung), sobald er sich einem Bänkli nähert.",
-                "Zögere das Lob hinaus, bis der Hund das Bänkli anstupst (oder ein anderes Anzeigeverhalten wie 'Sitz' zeigt)",
-                "Wenn dein Hund zuverlässig die Bänkli ansteuert, kannst du dein Signalwort einführen.",
-                "Sage bei der nächsten Parkbank dein Signalwort und lobe deinen Hund, wenn er sie anzeigt."
-            ],
-            "en": [
-                "Praise your dog (or marker & reward) as soon as he approaches a bench.",
-                "Delay the praise until the dog touches the bench (or shows another indicating behavior like 'sit')",
-                "When your dog reliably approaches benches, you can introduce your cue word.",
-                "Say your cue word at the next bench and praise your dog when he indicates it."
-            ]
-        },
-        "category": "trick",
-        "difficulty": "intermediate",
-        "duration": 5,
-        "location": "outdoor",
-        "mediaURLs": [
-            "https://pawsunited.ch/dog-activity-app/videos/lina-zeigt-baenggli.mp4"
+    "instructions": {
+        "de": [
+            "Suche dir einen schönen Ort in der Natur.",
+            "Das kann zum Beispiel eine Parkbank auf eurem Spaziergang sein.",
+            "Setze dich auf die Bank und beobachte die Umgebung. Was siehst, hörst und riechst du?",
+            "Beobachte auch deinen Hund: Je nach Charakter wird er ebenfalls die Umgebung erkunden oder Streicheleinheiten geniessen wollen. Beides ist in Ordnung.",
+            "Das Ziel ist, gemeinsam bewusst eine entspannte Zeit draussen zu verbringen.",
+            "Tipp: Wenn du magst, nimm eine Decke für deinen Hund mit. So kann er lernen, diesen spezifischen Ort mit Ruhe und Pause zu verbinden.",
+            "Wenn du dies regelmässig übst, wirst du merken, dass dein Hund an diesem Ort von sich aus eine Pause einlegen möchte ;-).",
+            "Mache dies idealerweise mehrmals pro Woche."
         ],
-        "mediaType": "video",
-        "tags": {
-            "de": [
-                "Beschäftigung",
-                "Spass"
-            ],
-            "en": [
-                "Activity",
-                "Fun"
-            ]
-        }
+        "en": [
+            "Find a nice spot in nature.",
+            "This could be, for example, a park bench on your walk.",
+            "Sit down on the bench and observe your surroundings. What do you see, hear, and smell?",
+            "Observe your dog too: Depending on their character, they might also explore the surroundings or want to enjoy being petted. Both are perfectly fine.",
+            "The goal is to consciously spend some relaxing time together outdoors.",
+            "Tip: If you like, bring a blanket for your dog. This way, they can learn to associate this specific spot with calm and taking a break.",
+            "If you practice this regularly, you'll notice your dog wanting to take a break at this spot on their own ;-).",
+            "Ideally, do this several times a week."
+        ]
     },
-    {
-        "id": "B7D1E5F0-A3C8-4B9D-8E6A-1F0D9C4B7A2E",
-        "title": {
-            "de": "Einparkieren / Garage",
-            "en": "Center / Garage"
-        },
-        "description": {
-            "de": "Lass deinen Hund zwischen deinen Beinen 'einparkieren' (Position Sitz oder Steh). Das kann praktisch sein, um ihm in schwierigen Situationen eine sichere Position zu bieten.",
-            "en": "Let your dog position himself between your legs (sit or stand position). This can be useful to give him a safe position in difficult situations."
-        },
-        "instructions": {
-            "de": [
-                "Wichtig: Achte darauf, dass dein Hund keine Angst hat, zwischen deine Beine zu kommen (manchen Hunden ist das unangenehm).",
-                "Du kannst deinen Hund zum Beispiel von hinten zwischen deine Beine in die Position locken.",
-                "Beginne ohne Ablenkung, am besten zuhause.",
-                "Übe an verschiedenen Orten, aber steigere die Ablenkung langsam!"
-            ],
-            "en": [
-                "Important: Make sure your dog isn't afraid to come between your legs (some dogs find this uncomfortable).",
-                "You can lure your dog into position from behind, between your legs.",
-                "Start without distractions, preferably at home.",
-                "Practice in different locations, but increase distractions slowly!"
-            ]
-        },
-        "category": "basic",
-        "difficulty": "intermediate",
-        "duration": 5,
-        "location": "both",
-        "mediaURLs": [
-            "https://pawsunited.ch/dog-activity-app/images/einparkieren_garage.jpeg"
+    "category": "basic",
+    "difficulty": "beginner",
+    "duration": 10,
+    "location": "outdoor",
+    "mediaURLs": [
+        "https://pawsunited.ch/dog-activity-app/images/pause_machen.jpeg"
+    ],
+    "mediaType": "image",
+    "tags": {
+        "de": [
+            "Grundkommando",
+            "Entspannung",
+            "Ruheübung"
         ],
-        "mediaType": "image",
-        "tags": {
-            "de": [
-                "Grundkommando",
-                "Beschäftigung"
-            ],
-            "en": [
-                "Basic Command",
-                "Activity"
-            ]
-        }
-    },
+        "en": [
+            "Basic Command",
+            "Relaxation",
+            "Calmness Exercise"
+        ]
+    }
+},
+{
+  "id": "A2B8D5E9-C7F0-4A3B-9E1D-5C6B8A0F3D7E",
+  "title": {
+      "de": "Handtouch",
+      "en": "Hand Touch"
+  },
+  "description": {
+      "de": "Lass deinen Hund mit der Nase deine Hand anstupsen. Dieser Trick kann unterwegs als nützliches Alternativverhalten dienen.",
+      "en": "Let your dog nudge your hand with their nose. This trick can be useful as an alternative behaviour when you're out and about."
+  },
+  "instructions": {
+      "de": [
+          "Voraussetzung: Dein Hund kennt den Handtouch bereits. Andernfalls findest du eine Anleitung dazu über den Link am Ende dieser Beschreibung.",
+          "Frage den Handtouch unterwegs mehrmals ab.",
+          "Beginne ohne Ablenkungen und steigere diese langsam.",
+          "Sobald dein Hund deine Hand anstupst, gib dein Markersignal (falls vorhanden) und eine passende Belohnung.",
+          "Achte auf die Ausrichtung deiner Hand und darauf, wohin dein Hund stupsen soll. Bei Ablenkungen kannst du durch eine geschickte Ausrichtung deiner Hand ein Abwenden von der Ablenkung oder eine Vergrösserung der Distanz dazu erreichen.",
+          "Berücksichtige bei der Belohnung das aktuelle Bedürfnis deines Hundes: Möchte er sich von einem Reiz entfernen? Dann wirf beispielsweise ein Leckerli in die entgegengesetzte Richtung. Möchtest du das Abwenden von etwas üben oder hat dein Hund Mühe, sich abzuwenden? Dann lege das Leckerli zum Beispiel direkt vor ihn auf den Boden."
+      ],
+      "en": [
+          "Prerequisite: Your dog already knows the hand touch. Otherwise, you'll find instructions via the link at the end of this description.",
+          "Ask for the hand touch several times when you're out and about.",
+          "Start without distractions and gradually increase them.",
+          "As soon as your dog nudges your hand, give your marker signal (if you use one) and an appropriate reward.",
+          "Pay attention to the orientation of your hand and where your dog should nudge. In distracting situations, you can use clever hand placement to encourage your dog to turn away from the distraction or to increase the distance to it.",
+          "When rewarding, consider your dog's current needs: Do they want to move away from a stimulus? Then, for example, toss a treat in the opposite direction. Do you want to practice turning away from something, or is your dog struggling to turn away? Then, for example, place the treat on the ground directly in front of them."
+      ]
+  },
+  "category": "trick",
+  "difficulty": "beginner",
+  "duration": 5,
+  "location": "outdoor",
+  "mediaURLs": [
+      "https://pawsunited.ch/dog-activity-app/videos/lina-macht-handtouch.mp4"
+  ],
+  "mediaType": "video",
+  "tags": {
+      "de": [
+          "Grundkommando",
+          "Beschäftigung",
+          "Trick"
+      ],
+      "en": [
+          "Basic Command",
+          "Activity",
+          "Trick"
+      ]
+  },
+  "link": "https://pawsunited.ch/der-handtouch-vielseitig-einsetzbar/"
+},
+{
+  "id": "F9C6A0B3-D8E7-4C5A-A1B0-9D2E7F8B4C6D",
+  "title": {
+      "de": "Bänkli (Parkbank) anzeigen",
+      "en": "Indicate a Bench"
+  },
+  "description": {
+      "de": "Lass dir von deinem Hund unterwegs Bänkli (Parkbänke) anzeigen.",
+      "en": "Have your dog indicate benches to you when you're out and about."
+  },
+  "instructions": {
+      "de": [
+          "Lobe deinen Hund (oder gib dein Markersignal und eine Belohnung), sobald er sich einem Bänkli nähert. Gib die Belohnung (hier am einfachsten ein Leckerli) direkt bei der Parkbank.",
+          "Zögere das Lob so lange hinaus, bis der Hund das Bänkli anstupst oder ein anderes, zuvor definiertes Anzeigeverhalten (z.B. 'Sitz' oder Hinlegen) davor zeigt.",
+          "Wenn dein Hund zuverlässig Bänkli ansteuert, um eine Belohnung zu erhalten, kannst du dein Signalwort einführen.",
+          "Sage bei der nächsten Parkbank, bevor dein Hund sie von sich aus anzeigt, dein Signalwort (z.B. 'Bänkli?' oder 'Zeig!'). Lobe und belohne deinen Hund, wenn er sie daraufhin anzeigt."
+      ],
+      "en": [
+          "Praise your dog (or give your marker signal and a reward) as soon as they approach a bench. Give the reward (a treat is easiest here) directly at the park bench.",
+          "Delay the praise until the dog nudges the bench or performs another previously defined indicating behaviour in front of it (e.g., 'Sit' or 'Down').",
+          "Once your dog reliably heads towards benches to receive a reward, you can introduce your cue word.",
+          "At the next park bench, say your cue word (e.g., 'Bench?' or 'Show!') *before* your dog indicates it on their own. Praise and reward your dog when they then indicate it."
+      ]
+  },
+  "category": "trick",
+  "difficulty": "intermediate",
+  "duration": 5,
+  "location": "outdoor",
+  "mediaURLs": [
+      "https://pawsunited.ch/dog-activity-app/videos/lina-zeigt-baenggli.mp4"
+  ],
+  "mediaType": "video",
+  "tags": {
+      "de": [
+          "Beschäftigung",
+          "Spass",
+          "Anzeigen"
+      ],
+      "en": [
+          "Activity",
+          "Fun",
+          "Indication",
+          "Targeting"
+      ]
+  }
+},
+{
+  "id": "B7D1E5F0-A3C8-4B9D-8E6A-1F0D9C4B7A2E",
+  "title": {
+      "de": "Einparkieren / Garage",
+      "en": "Middle / Center"
+  },
+  "description": {
+      "de": "Lass deinen Hund zwischen deinen Beinen 'einparkieren' (Position Sitz oder Steh). Das kann praktisch sein, um ihm in schwierigen Situationen eine sichere Position zu bieten.",
+      "en": "Teach your dog to 'park' or take a 'middle' position between your legs (in a sit or stand). This can be a useful way to offer them a safe and secure spot in challenging situations."
+  },
+  "instructions": {
+      "de": [
+          "Wichtig: Achte darauf, dass dein Hund keine Angst hat, zwischen deine Beine zu kommen. Manchen Hunden ist diese Enge oder die darüber gebeugte Haltung des Menschen unangenehm. Zwinge deinen Hund niemals.",
+          "Locke deinen Hund mit einem Leckerli von hinten zwischen deine (anfangs vielleicht noch etwas weiter geöffneten) Beine in die gewünschte Position (Sitz oder Steh). Gib ihm das Leckerli und lobe ihn, sobald er die Position erreicht hat.",
+          "Wenn dein Hund zögert oder Angst zeigt, beginne stattdessen mit den folgenden Schritten (3-6), um ihn langsam daran zu gewöhnen, bevor du mit Schritt 2 weitermachst:",
+          "Lege zunächst Leckerlis um deine Füsse und Beine herum auf den Boden. Dein Hund darf sich diesen in seinem Tempo nähern und sie fressen. So verbindet er deine unmittelbare Nähe mit etwas Positivem.",
+          "Streue im nächsten Schritt Leckerlis so, dass dein Hund den Kopf und vielleicht die Schultern zwischen deine leicht geöffneten Beine bewegen muss, um sie zu erreichen.",
+          "Belohne jede kleine Annäherung und jeden Ansatz, sich zwischen deine Beine zu bewegen, ausgiebig. Arbeite hier sehr geduldig.",
+          "Erst wenn sich dein Hund bei diesen Annäherungsschritten (3-6) wohlfühlt, fährst du mit Schritt 2 fort und versuchst, ihn sanft ganz zwischen deine Beine zu locken.",
+          "Sobald dein Hund die Bewegung aus Schritt 2 zuverlässig ausführt, kannst du ein Signalwort (z.B. 'Mitte', 'Parkier' oder 'Garage') einführen. Sage das Wort, kurz bevor du ihn in die Position lockst, und belohne ihn dann.",
+          "Beginne das Training in einer ruhigen, ablenkungsarmen Umgebung, am besten zuhause.",
+          "Übe anschliessend an verschiedenen Orten und steigere die Ablenkung nur sehr langsam."
+      ],
+      "en": [
+          "Important: Ensure your dog is not afraid to come between your legs. Some dogs find the confinement or you bending over them uncomfortable. Never force your dog.",
+          "Lure your dog with a treat from behind, guiding them between your (perhaps initially wider-set) legs into the desired position (sit or stand). Give them the treat and praise them as soon as they reach the position.",
+          "If your dog hesitates or shows fear, start instead with the following steps (3-6) to gradually accustom them before continuing with step 2:",
+          "First, place treats on the floor around your feet and legs. Allow your dog to approach and eat them at their own pace. This helps them associate your close presence with something positive.",
+          "In the next step, scatter treats so that your dog has to move their head and perhaps their shoulders between your slightly open legs to reach them.",
+          "Reward every small approach and any attempt to move between your legs generously. Be very patient here.",
+          "Only when your dog is comfortable with these approach steps (3-6), proceed with step 2 and try to gently lure them fully between your legs.",
+          "Once your dog reliably performs the movement from step 2, you can introduce a cue word (e.g., 'Middle,' 'Center,' or 'Park'). Say the word just before you lure them into position, and then reward them.",
+          "Begin training in a quiet, low-distraction environment, ideally at home.",
+          "Then practice in different locations, increasing distractions very slowly."
+      ]
+  },
+  "category": "basic",
+  "difficulty": "intermediate",
+  "duration": 5,
+  "location": "both",
+  "mediaURLs": [
+      "https://pawsunited.ch/dog-activity-app/images/einparkieren_garage.jpeg"
+  ],
+  "mediaType": "image",
+  "tags": {
+      "de": [
+          "Grundkommando",
+          "Beschäftigung",
+          "Sicherheitsposition",
+          "Management"
+      ],
+      "en": [
+          "Basic Command",
+          "Activity",
+          "Safety Position",
+          "Management"
+      ]
+  }
+},
     {
         "id": "C1A0B9D4-E6F2-4A7C-B3D8-7E5F1C0A9B8D",
         "title": {
