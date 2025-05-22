@@ -612,17 +612,11 @@
   "tags": {
       "de": [
           "Grundkommando",
-          "Generalisierung",
-          "Sitz",
-          "Körpersprache",
-          "Fokus"
+          "Generalisierung"
       ],
       "en": [
           "Basic Command",
-          "Generalization",
-          "Sit",
-          "Body Language",
-          "Focus"
+          "Generalization"
       ]
   }
 },
